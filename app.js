@@ -1,5 +1,5 @@
 var Airtable = require('airtable');
-var base = new Airtable({apiKey: 'keyuljWqy8lJvh9M5'}).base('appBFUQTUyEWm8N4A');
+var base = new Airtable({apiKey: 'sdfsd'}).base('dsf');
 
 var myForm = document.getElementById('myForm');
 var input = document.getElementById('name');
